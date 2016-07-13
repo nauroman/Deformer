@@ -1,5 +1,5 @@
-# Shaper
-Unity3d shape deformer
+# Deformer
+Unity3d shape deformer to simulate soft bodies (metalls)
 
 HTML5 WebGL demo:
 
