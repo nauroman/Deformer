@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: 912407f8132e2408e83d07cb2566772e
+timeCreated: 1464908990
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cube
+    100002: //RootNode
+    100004: Plane
+    100006: Cube16
+    100008: Cube2
+    100010: Cube4
+    100012: Cube8
+    100014: CubeLow
+    100016: Cylinder
+    100018: Cylinder2
+    100020: Icosphere
+    100022: Icosphere2
+    100024: Icosphere4
+    100026: Plane16
+    100028: Plane2
+    100030: Plane32
+    100032: Plane4
+    100034: Plane64
+    100036: Plane8
+    100038: Sphere
+    100040: Sphere2
+    100042: Sphere4
+    100044: Suzanne
+    400000: Cube
+    400002: //RootNode
+    400004: Plane
+    400006: Cube16
+    400008: Cube2
+    400010: Cube4
+    400012: Cube8
+    400014: CubeLow
+    400016: Cylinder
+    400018: Cylinder2
+    400020: Icosphere
+    400022: Icosphere2
+    400024: Icosphere4
+    400026: Plane16
+    400028: Plane2
+    400030: Plane32
+    400032: Plane4
+    400034: Plane64
+    400036: Plane8
+    400038: Sphere
+    400040: Sphere2
+    400042: Sphere4
+    400044: Suzanne
+    2300000: Cube
+    2300002: Plane
+    2300004: Cube16
+    2300006: Cube2
+    2300008: Cube4
+    2300010: Cube8
+    2300012: CubeLow
+    2300014: Cylinder
+    2300016: Cylinder2
+    2300018: Icosphere
+    2300020: Icosphere2
+    2300022: Icosphere4
+    2300024: Plane16
+    2300026: Plane2
+    2300028: Plane32
+    2300030: Plane4
+    2300032: Plane64
+    2300034: Plane8
+    2300036: Sphere
+    2300038: Sphere2
+    2300040: Sphere4
+    2300042: Suzanne
+    3300000: Cube
+    3300002: Plane
+    3300004: Cube16
+    3300006: Cube2
+    3300008: Cube4
+    3300010: Cube8
+    3300012: CubeLow
+    3300014: Cylinder
+    3300016: Cylinder2
+    3300018: Icosphere
+    3300020: Icosphere2
+    3300022: Icosphere4
+    3300024: Plane16
+    3300026: Plane2
+    3300028: Plane32
+    3300030: Plane4
+    3300032: Plane64
+    3300034: Plane8
+    3300036: Sphere
+    3300038: Sphere2
+    3300040: Sphere4
+    3300042: Suzanne
+    4300000: Plane
+    4300002: Cube
+    4300004: Cube16
+    4300006: Cube8
+    4300008: Cube4
+    4300010: Cube2
+    4300012: CubeLow
+    4300014: Suzanne
+    4300016: Cylinder2
+    4300018: Cylinder
+    4300020: Sphere4
+    4300022: Sphere2
+    4300024: Sphere
+    4300026: Icosphere4
+    4300028: Icosphere2
+    4300030: Icosphere
+    4300032: Plane64
+    4300034: Plane32
+    4300036: Plane16
+    4300038: Plane8
+    4300040: Plane4
+    4300042: Plane2
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

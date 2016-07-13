@@ -1,0 +1,17 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uilds/
+[Ss]ources/
+[Aa]ssets/Libs/UnityVS
+[Aa]ssets/Libs/UnityVS.meta
+[Ww]ebGL/
+
+*.csproj
+*.unityproj
+*.sln
+*.pidb
+*.pidb.meta
+*.suo
+*.apk
+*.app
